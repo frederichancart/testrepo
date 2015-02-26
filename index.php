@@ -8,5 +8,5 @@
 
 echo "test<br>";
 
-echo "blabla";
+echo "blabla.";
 
