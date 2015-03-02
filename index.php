@@ -6,7 +6,12 @@
  * and open the template in the editor.
  */
 
-echo "test<br>";
 
-echo "blabla.";
+/**
+ * index.php
+ * 
+ * Start pagina applicatie
+ * 
+ */
 
+echo "test";
