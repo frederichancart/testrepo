@@ -1,0 +1,23 @@
+2015-03-03 22:30:55 - ERROR --> An exception was thrown in ThisFunction() 
+2015-03-03 22:30:55 - INFO  --> Internal Query Time:  milliseconds 
+2015-03-03 22:30:55 - DEBUG --> User Count:  
+2015-03-03 22:33:08 - DEBUG --> Program start 
+2015-03-03 22:33:08 - ERROR --> An exception was thrown in ThisFunction() 
+2015-03-03 22:33:08 - INFO  --> Internal Query Time:  milliseconds 
+2015-03-03 22:33:08 - DEBUG --> User Count:  
+2015-03-03 22:33:08 - DEBUG --> Program end 
+2015-03-03 22:50:08 - DEBUG --> Program start 
+2015-03-03 22:50:08 - ERROR --> An exception was thrown in ThisFunction() 
+2015-03-03 22:50:08 - INFO  --> Internal Query Time:  milliseconds 
+2015-03-03 22:50:08 - DEBUG --> User Count:  
+2015-03-03 22:50:08 - DEBUG --> Program end 
+2015-03-03 22:50:59 - DEBUG --> Program start 
+2015-03-03 22:50:59 - ERROR --> An exception was thrown in ThisFunction() 
+2015-03-03 22:50:59 - INFO  --> Internal Query Time:  milliseconds 
+2015-03-03 22:50:59 - DEBUG --> User Count:  
+2015-03-03 22:50:59 - DEBUG --> Program end 
+2015-03-03 22:51:35 - DEBUG --> Program start 
+2015-03-03 22:51:35 - ERROR --> An exception was thrown in ThisFunction() 
+2015-03-03 22:51:35 - INFO  --> Internal Query Time:  milliseconds 
+2015-03-03 22:51:35 - DEBUG --> User Count:  
+2015-03-03 22:51:35 - DEBUG --> Program end 
