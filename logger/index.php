@@ -30,6 +30,7 @@ $log->LogError("An exception was thrown in ThisFunction()");
 $log->LogInfo("Internal Query Time: $time_ms milliseconds");
  
 // Print out the value of some variables
+$User_Count = 3;
 $log->LogDebug("User Count: $User_Count");
 
 $log->LogDebug("Program end");
